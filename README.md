@@ -2,8 +2,11 @@
 A generative AI solution for generating engineering diagrams from prompt
 
 #Contributors
+
 [@SayandeepSaha](https://github.com/EveningLantern)
+
 [@Arghadip](https://github.com/ARGHADIPDALUI)
+
 #Diagrams & Flow Chart
 
 #Introduction to our IDEA
