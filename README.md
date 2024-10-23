@@ -17,5 +17,3 @@ Our AI-driven approach revolutionizes software design, providing an efficient, s
 ![image](https://github.com/user-attachments/assets/1e04e53d-c3e2-4473-802d-03adbebf62d7)
 
 
-
-Trying something new
