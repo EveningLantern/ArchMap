@@ -1,5 +1,0 @@
-UI colors: - 
-1) primary color - #387478
-2) secondary color - #96CEB4
-3) icon primary color - 
-4) background color - 
